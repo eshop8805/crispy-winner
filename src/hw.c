@@ -9,5 +9,5 @@ int main() {
   for (int ii=0; ii < 4; ii++) printf("%c\n", 'A'+ii);
   for (int kk=0; kk < 8; kk++) printf("%d ", kk);
   printf("\n");
-  printf("(bug001)\n");
+  printf("(bug001 PRE-MERGE)\n");
 }
