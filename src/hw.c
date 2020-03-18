@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+extern void psub(int N);
+
 int main() {
   printf("hw\n");
 
@@ -26,4 +28,6 @@ printf("Part C (featABC)\n");
 
 printf("Part 000 of bug102\n");
 printf("Part 111 of bug102\n");
+
+  psub(5);
 }
