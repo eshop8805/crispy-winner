@@ -23,4 +23,6 @@ printf("And finally(feat123)\n");
 printf("Working on featABC\n");
 printf("Part A and B of  (featABC)\n");
 printf("Part C (featABC)\n");
+
+printf("Part 000 of bug102\n");
 }
