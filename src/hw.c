@@ -10,4 +10,5 @@ int main() {
   for (int kk=0; kk < 8; kk++) printf("%d ", kk);
   for (int jj=2; jj >= 0; jj--) printf("%c ", 'Z'-jj);
   printf("\n");
+  printf("(bug001)\n");
 }
