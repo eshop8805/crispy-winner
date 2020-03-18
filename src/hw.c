@@ -5,6 +5,7 @@ int main() {
 
   printf("PRE PRE PRE (feat123)\n");
   printf("Master AAA\n");
+  printf("Master BBB\n");
   printf("Adding another line in master branch\n");
   printf("Combining (*dogs*) and (CATS) in master branch\n");
 
