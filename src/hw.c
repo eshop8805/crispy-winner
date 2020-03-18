@@ -14,4 +14,5 @@ int main() {
   printf("(bug001 PRE-MERGE)\n");
 
 printf("BLAH BLAH BLAH (feat123)\n");
+printf("And finally(feat123)\n");
 }
