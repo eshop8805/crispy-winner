@@ -4,6 +4,5 @@ int main() {
   printf("hw\n");
 
   printf("Adding another line in master branch\n");
-  printf("Adding 2a line (*dogs*) in master branch\n");
-  printf("Adding 3rd line (CATS) in master branch\n");
+  printf("Combining (*dogs*) and (CATS) in master branch\n");
 }
