@@ -1,2 +1,0 @@
-This file will have crlf
-And not be affected by attr
