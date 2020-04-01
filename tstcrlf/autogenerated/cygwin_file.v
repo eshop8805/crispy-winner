@@ -5,5 +5,6 @@ blah
 Blah should be here from cygwin
 This is random form linux
 new linux
+new linux CRLF
 new cygwin
 blah
